@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/item1"
+         android:id="@+id/item_average"/>
+    <item android:title ="@string/item2"
+        android:id="@+id/item_noofquestions"/>
+    <item android:title="@string/item3"
+        android:id="@+id/item_resetsaveresult"/>
+</menu>
